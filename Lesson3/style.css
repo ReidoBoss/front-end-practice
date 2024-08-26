@@ -1,0 +1,12 @@
+body {
+	font-family: monospace;
+	font-size: 22px;
+	line-height: 1.5;
+	background: palegoldenrod;
+	color: #444231;
+/* 	color: #aab0ee; */
+}
+
+p {
+	color: #aab0ee;
+}

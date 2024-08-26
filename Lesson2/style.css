@@ -1,0 +1,42 @@
+/* * {
+	font-family: monospace;
+}
+ */
+
+/* if we put attributes on the body, only some of it will be inherited by some classes
+but if we use the universal selector '*' every class will inherit it. */
+body {
+	font-size: 22px;	
+	border: 3px solid black;
+}
+/* form elements do not inherit anything. you have to use the inherit keyword for an attribute if you want to 
+example form elements : button,input,textarea,select 
+example usage: 
+
+button, input, textarea, select{
+	font: inherit;
+}
+ */
+main{
+	font-family: monospace;
+}
+p {
+	color: purple;
+}
+
+h1,h2{
+	color: blue;
+}
+
+p span{
+	color: red;
+	background-color: blue;
+}
+
+.gray {
+	color: gray;
+}
+
+#second {
+	font-style: italic;
+}

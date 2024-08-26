@@ -1,0 +1,23 @@
+html{
+	font-size: 22px;
+
+}
+
+h1{
+	text-align: center;
+	font-family: sans-serif;
+	border: hidden 2px;
+  	margin: auto;
+  	width: 20%;
+	border-radius: 10px;
+	background: aqua;
+}
+.border{
+	padding: 4px;
+	border: hidden 2px;
+	border-radius: 5px;
+	background: palegoldenrod;
+}
+main{
+	font-family: monospace;
+}
