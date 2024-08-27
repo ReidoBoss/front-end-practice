@@ -1,0 +1,21 @@
+html{
+	font-size: 200%;
+	display: inline-block;
+	font-family: monospace;
+	padding: 0.5%;
+}
+
+.main_heading{
+	display: inline-block;
+	padding: 0.5%;
+	border: solid  skyblue 1px;
+	background: palegoldenrod;
+	border-radius: 20%;
+}
+
+
+p{
+	line-height: 1.5;
+	width: 50%;
+	text-align: justify;
+}

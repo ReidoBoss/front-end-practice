@@ -1,23 +1,15 @@
-html{
-	font-size: 22px;
+p {
+	size: 2px;
+}
 
+article{
+	width: 50%;
+	padding-left: 5%;
 }
 
 h1{
-	text-align: center;
-	font-family: sans-serif;
-	border: hidden 2px;
-  	margin: auto;
-  	width: 20%;
-	border-radius: 10px;
-	background: aqua;
+	display: inline-block;
+	padding :0.4%;
+	border: solid 4px;
 }
-.border{
-	padding: 4px;
-	border: hidden 2px;
-	border-radius: 5px;
-	background: palegoldenrod;
-}
-main{
-	font-family: monospace;
-}
+
